@@ -1,0 +1,9 @@
+run cmd from the directory of the folder where the code and files are
+
+Then type the following things and press y WHEN PROMPT (Y/N):
+
+gcloud auth login
+pause
+gcloud config set project group17tue
+gcloud app deploy
+
